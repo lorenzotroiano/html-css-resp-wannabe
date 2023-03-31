@@ -154,6 +154,10 @@ img {
         
     }
    
+    .steps {
+        margin-bottom: 0;
+        padding-bottom: 3rem;
+    }
 
     .why-us .col-left {
         width: 100%;
@@ -169,7 +173,8 @@ img {
 
     .why-us {
         background-color: black;
-        
+        margin-bottom: 0;
+        padding-bottom: 10px;
     }
 
    
